@@ -67,11 +67,3 @@ Open in Android Studio
 Click Build > Build Bundle(s) / APK(s) > Build APK
 
 Install the APK on your Android device.
-
-
-## 🧠 Credits
-Developed by Hussain Waseer
-For learning and demonstration purposes
-
-## 📄 License
-This project is open-source and free to use under the MIT License.
