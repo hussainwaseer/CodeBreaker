@@ -59,8 +59,7 @@ For secure encryption, consider libraries like:
 ---
 
 ## 📁 Installation
-
-1. Clone the repo  
+ Clone the repo  
 ```bash
 git clone https://github.com/hussainwaseer/CodeBreaker.git
 Open in Android Studio
@@ -69,9 +68,10 @@ Click Build > Build Bundle(s) / APK(s) > Build APK
 
 Install the APK on your Android device
 
-🧠 Credits
+
+**## 🧠 Credits**
 Developed by Hussain Waseer
 For learning and demonstration purposes
 
-📄 License
+**## 📄 License**
 This project is open-source and free to use under the MIT License.
